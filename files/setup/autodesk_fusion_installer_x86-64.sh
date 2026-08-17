@@ -706,7 +706,6 @@ Pin-Priority: 1000
     else
         echo "The installed version of Firefox is not from Snap."
     fi
-}
 
 ##############################################################################################################################################################################
 # DOWNLOAD THE REQUIRED FILES FOR THE INSTALLER:                                                                                                                             #
